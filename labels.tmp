@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8</DEVICE>
+ <WORKING_DIR>C:\Users\profe\OneDrive\Study\RVS</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:\AVR Studio\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\profe\OneDrive\Study\RVS\achievement_1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:\AVR Studio\AvrAssembler2\Appnotes\m8def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\profe\OneDrive\Study\RVS\achievement_1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\profe\OneDrive\Study\RVS\achievement_1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\profe\OneDrive\Study\RVS\achievement_1.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\profe\OneDrive\Study\RVS\achievement_1.asm</FILE><LINE>60</LINE></start>
+  <TIM1_OVF><FILE>C:\Users\profe\OneDrive\Study\RVS\achievement_1.asm</FILE><LINE>93</LINE></TIM1_OVF>
+  <TIM0_OVF><FILE>C:\Users\profe\OneDrive\Study\RVS\achievement_1.asm</FILE><LINE>101</LINE></TIM0_OVF>
+  <TIMER1_STR><FILE>C:\Users\profe\OneDrive\Study\RVS\achievement_1.asm</FILE><LINE>20</LINE></TIMER1_STR>
+  <TIMER2_STR><FILE>C:\Users\profe\OneDrive\Study\RVS\achievement_1.asm</FILE><LINE>21</LINE></TIMER2_STR>
+  <init_USART><FILE>C:\Users\profe\OneDrive\Study\RVS\achievement_1.asm</FILE><LINE>25</LINE></init_USART>
+  <USART_send><FILE>C:\Users\profe\OneDrive\Study\RVS\achievement_1.asm</FILE><LINE>40</LINE></USART_send>
+  <get_flash_byte><FILE>C:\Users\profe\OneDrive\Study\RVS\achievement_1.asm</FILE><LINE>46</LINE></get_flash_byte>
+  <send_str_end><FILE>C:\Users\profe\OneDrive\Study\RVS\achievement_1.asm</FILE><LINE>53</LINE></send_str_end>
+  <begin><FILE>C:\Users\profe\OneDrive\Study\RVS\achievement_1.asm</FILE><LINE>89</LINE></begin>
+ </LABELS>
+</ASSEMBLER_INFO>
